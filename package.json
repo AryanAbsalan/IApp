@@ -1,0 +1,15 @@
+{
+  "name": "iapp",
+  "version": "1.0.0",
+  "description": "Learning by doing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server":"live-server"
+  },
+  "author": "Aryan",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
